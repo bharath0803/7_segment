@@ -3,6 +3,6 @@
 
 #include "stm32f1xx_hal.h"
 
-void number(int *n);
+void number(int n);
 
 #endif
